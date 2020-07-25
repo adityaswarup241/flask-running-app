@@ -8,4 +8,4 @@ mysql-connector==2.1.7
 flask-mysql==1.5.0
 Flask-SQLAlchemy==2.2
 Flask-mail==0.8.1
-SQLAlchemy==1.1.9
+SQLAlchemy==1.3.0
